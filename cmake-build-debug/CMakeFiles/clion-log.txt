@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/TDM-GCC-32/bin/mingw32-make.exe -DCMAKE_C_COMPILER=C:/TDM-GCC-32/bin/mingw32-gcc.exe -DCMAKE_CXX_COMPILER=C:/TDM-GCC-32/bin/mingw32-g++.exe -G "CodeBlocks - MinGW Makefiles" C:\Users\jav26\Documents\MEGAsync\School\ESC-20\Project
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/jav26/Documents/MEGAsync/School/ESC-20/Project/cmake-build-debug
