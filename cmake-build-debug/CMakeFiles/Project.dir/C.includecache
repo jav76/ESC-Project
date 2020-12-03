@@ -7,4 +7,10 @@
 #IncludeRegexTransform: 
 
 C:/Users/jav26/Documents/MEGAsync/School/ESC-20/Project/main.c
+stdio.h
+-
+stdbool.h
+-
+string.h
+-
 
