@@ -21,7 +21,7 @@ void filter(bool approximation)
     inputFile=fopen("input.txt", "r");
 
     //Open an Output File
-    char outputFileName[16];
+    char outputFileName[24];
 
     if (approximation)
     {
@@ -128,6 +128,6 @@ void filter(bool approximation)
 
 int main()
 {
-    //filter(false);
+    filter(true);
     filter(false);
 }
